@@ -3,114 +3,115 @@ Modlist:
 
 Craftify
 Version 1.9.0 is embedded
-dependency-icon
+
 YetAnotherConfigLib
 Version 2.2.0 is embedded
+
 playerAnimator
 Version 1.0.2+1.19.3-fabric is embedded
-dependency-icon
+
 LazyDFU
 Version 0.1.3 is embedded
-dependency-icon
+
 Continuity
 Version 3.0.0-beta.2+1.19.3 is embedded
-dependency-icon
+
 Lithium
 Version mc1.19.3-0.11.1 is embedded
-dependency-icon
+
 Mouse Tweaks
 Version 1.19.3-2.24-fabric is embedded
-dependency-icon
+
 Alloy Forgery
 Version 2.0.19+1.19.3 is embedded
-dependency-icon
+
 Sit
 Version r22 is embedded
-dependency-icon
+
 Horse Expert
 Version v5.0.1-1.19.3-Fabric is embedded
-dependency-icon
+
 Origins
 Version 1.8.1 is embedded
-dependency-icon
+
 Trinkets
 Version 3.5.1 is embedded
-dependency-icon
+
 MidnightLib
 Version 1.1.0-fabric is embedded
-dependency-icon
+
 Language Reload
 Version 1.5.6+1.19.3 is embedded
-dependency-icon
+
 Smelting Sand in Blast Furnace [Fabric/Forge]
 Version 1.19.3-11 is embedded
-dependency-icon
+
 Fabric Waystones
 Version 3.0.7+MC1.19.3 is embedded
-dependency-icon
+
 Botarium
 Version 2.0.5 is embedded
-dependency-icon
+
 Just Enough Professions (JEP)
 Version 2.2.0 is embedded
-dependency-icon
+
 YUNG's Better Ocean Monuments
 Version 1.19.3-Fabric-2.2.0 is embedded
-dependency-icon
+
 Architectury API
 Version 7.1.78+fabric is embedded
-dependency-icon
+
 LambDynamicLights
 Version 2.2.0+1.19.3 is embedded
-dependency-icon
+
 Item Highlighter
 Version 1.1.4 is embedded
-dependency-icon
+
 Resourceful Lib
 Version 1.2.7 is embedded
-dependency-icon
+
 Mythic Metals Decorations
 Version 0.5.2+1.19.3 is embedded
-dependency-icon
+
 EntityCulling
 Version 1.6.1-1.19.3 is embedded
-dependency-icon
+
 BCLib
 Version 2.2.4 is embedded
-dependency-icon
+
 BetterNether
 Version 8.1.3 is embedded
-dependency-icon
+
 AmbientSounds
 Version 5.2.17 is embedded
-dependency-icon
+
 Explorify
 Version 1.19-1.3.0 is embedded
-dependency-icon
+
 ReplayMod
 Version 1.19.3-2.6.10 is embedded
-dependency-icon
+
 Origins: Classes
 Version 1.5.0 is embedded
-dependency-icon
+
 Iris Shaders
 Version 1.5.2+1.19.3 is embedded
-dependency-icon
+
 Chunky
 Version 1.3.53 is embedded
-dependency-icon
+
 Here be no Dragons!
 Version 1.0.0 is embedded
-dependency-icon
+
 Sodium Extra
 Version mc1.19.3-0.4.18 is embedded
-dependency-icon
+
 Fabrishot
 Version 1.9.1 is embedded
-dependency-icon
+
 Presence Footsteps
 Version 1.7.1 is embedded
-dependency-icon
+
 FerriteCore
 Version 5.1.0-fabric is embedded
 dependency-icon
