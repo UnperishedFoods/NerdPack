@@ -1,2 +1,4 @@
 # NerdPack
-There are currently no files in this repo, however, you can report issues in the issue tracker and I will review them. Thanks!
+A source for modrinth mods have been included in this repository for reference. You may use this repo to post issues/suggestions as you wish.
+Click [here](https://modrinth.com/modpack/nerdpack) to view NerdPack.
+Click [here](https://modrinth.com/user/UnperishedDev) to view my Modrinth profile.
