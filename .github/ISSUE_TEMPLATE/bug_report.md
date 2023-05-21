@@ -25,8 +25,8 @@ If you
 
 **Please add the following information:**
  - OS:
- - Modpack version
- - Logs
+ - Modpack version:
+ - Add your latest.log file.
 
 **Additional context**
 Add anything extra about your problem here.
